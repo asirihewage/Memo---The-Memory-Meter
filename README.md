@@ -19,7 +19,7 @@ npm start
 ```
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/asirihewage/Memo---The-Memory-Meter/blob/master/screenshots/ScreenShot_20190723221656.png)
 
 ###Server
 Server is running an API on python Flask environment.
@@ -34,5 +34,5 @@ Run python script
 python Server/server.py 
 ```
 
-![alt text](https://raw.githubusercontent.com/userna13me/projectname/branch/path/to/img.png)
+![alt text](https://github.com/asirihewage/Memo---The-Memory-Meter/blob/master/screenshots/ScreenShot_20190723221733.png)
 
