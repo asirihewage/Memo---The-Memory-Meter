@@ -9,7 +9,7 @@ Client is developed using MDB React. It will call the server API continuously to
 Clone the project using git
 
 ```bash
-git clone
+git clone  https://github.com/asirihewage/Memo---The-Memory-Meter.git
 ```
 Install dependencies
 ```npm
