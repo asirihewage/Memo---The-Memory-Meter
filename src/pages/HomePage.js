@@ -124,7 +124,6 @@ class HomePage extends React.Component {
   }
 
   render() {
-    const { isLoading, data, error } = this.state;
     return (
       <div>
         <MDBEdgeHeader color="indigo darken-3" />
