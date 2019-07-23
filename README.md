@@ -1,6 +1,6 @@
 # Memo---The-Memory-Meter
 
-I did this project during my Internship period at Pearson Inc. THis is a simple Memory meter to measure memory utilization on multiple servers. 
+I did this project during my Internship period at Pearson Inc. This is a simple Memory meter to measure memory utilization on multiple servers. 
 
 ### Client
 
